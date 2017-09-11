@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Math skills</string>
+    <string name="CountOfEquation">Введи количество примеров</string>
+    <string name="next">Далее</string>
+    <string name="check">Проверить</string>
+    <string name="reset">Еще раз</string>
+    <string name="exit">Выйти</string>
+</resources>
